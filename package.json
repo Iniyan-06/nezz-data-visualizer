@@ -1,0 +1,30 @@
+{
+  "name": "tmp_app",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "chart.js": "^4.5.1",
+    "lucide-react": "^1.14.0",
+    "next": "14.2.35",
+    "papaparse": "^5.5.3",
+    "react": "^18",
+    "react-chartjs-2": "^5.3.1",
+    "react-dom": "^18",
+    "react-dropzone": "^15.0.0"
+  },
+  "devDependencies": {
+    "@types/node": "^20",
+    "@types/papaparse": "^5.5.2",
+    "@types/react": "^18",
+    "@types/react-dom": "^18",
+    "eslint": "^8",
+    "eslint-config-next": "14.2.35",
+    "typescript": "^5"
+  }
+}
